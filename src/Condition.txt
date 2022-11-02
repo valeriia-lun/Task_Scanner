@@ -1,0 +1,30 @@
+Hello! Let's find out your best weigh!
+What's your name?
+Lera
+Nice to meet you, Lera. What's your height?
+160
+So, Lera. Your best weight is 50
+________________________________________________________________________
+
+Имя и рост могут быть любыми.
+Дополнительное задание, если знаешь if-else:
+Рассмотреть ситуации, когда человек вобьет в имя не стрингу, то вывод будет такой:
+
+---------------------------------------------------------------------------
+Hello! Let's find out your best weigh!
+What's your name?
+4567
+That's not a name, but ok, I'll call you dummy))
+Nice to meet you, Dummy. What's your height?
+160
+So, Dummy. Your best weight is 50
+---------------------------------------------------------------------------
+
+И если потом человек вобьет не инт в рост, то такое должно быть:
+---------------------------------------------------------------------------
+Hello! Let's find out your best weigh!
+What's your name?
+Lera
+Nice to meet you, Lera. What's your height?
+sdsdsd
+That's not a height, restart the program and try again!
